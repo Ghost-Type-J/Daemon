@@ -1,4 +1,5 @@
-# Daemon
+# Daemon IMDb Top 15 Movies Analysis
+
 A Pyhton application using Pandas library for an IMDb analysis
 
 1) Selects constants which can be changed later for the python application.
