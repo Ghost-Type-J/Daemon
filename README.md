@@ -1,12 +1,12 @@
 # Daemon IMDb Top 15 Movies Analysis
 
-A Pyhton application using Pandas library for an IMDb analysis
+A Python application using the Pandas library for an IMDb analysis.
 
-1) Selects constants which can be changed later for the python application.
+1) Selects constants for functions.
 
-2) First function uses requests library to ingest data from URL.
+2) First get_data function uses the requests library to ingest data from URLs.
 
-3) Function get_top_n_movies accepts 4 parameters and has the following behaviour:
+3) Next the get_top_n_movies function accepts 4 parameters and has the following behaviour:
 
     i) Creates a dataframe of title names with only the three columns we need for analysis.
     ii) Assigns a rank to the the ratings dataframe based of given calculation and appends these results into a new column: 'Rank'.
