@@ -1,0 +1,7 @@
+(env) GhostType@Jumayels-MBP Daemon % /Users/GhostType/Daemon/env/bin/python /Users/GhostType/Daemon/test_imdb_analysis.py
+./Users/GhostType/Daemon/env/bin/python /Users/GhostType/Daemon/test_imdb_analysis.py
+...
+----------------------------------------------------------------------
+Ran 4 tests in 283.055s
+
+OK
