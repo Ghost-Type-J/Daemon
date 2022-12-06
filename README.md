@@ -1,4 +1,4 @@
-# Daemon IMDb Top 15 Movies Analysis
+# IMDb Top 15 Movies Analysis
 
 A Python application using the Pandas library for an IMDb analysis.
 
